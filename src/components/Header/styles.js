@@ -1,0 +1,19 @@
+import styled from "styled-components";
+
+export const Container = styled.SafeAreaView`
+  width: 100%;
+  background-color: #353840;
+  align-items: center;
+  justify-content: center;
+  padding-top: 15px;
+  border-bottom-width: 1px;
+  border-bottom-color: #c7c7c7;
+`;
+
+export const Title = styled.Text`
+  margin-top: 10px;
+  font-size: 27px;
+  font-weight: bold;
+  padding-bottom: 15px;
+  color: #fff;
+`;
