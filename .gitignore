@@ -56,4 +56,5 @@ dist/
 
 
 # Config files
-/src/services/firebaseConnection.js
+pages
+services
