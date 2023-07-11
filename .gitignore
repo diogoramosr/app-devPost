@@ -55,5 +55,5 @@ web-build/
 dist/
 
 
-# Application
-services/
+# Config files
+/src/services/firebaseConnection.js
