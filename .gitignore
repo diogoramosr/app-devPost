@@ -56,5 +56,5 @@ dist/
 
 
 # Config files
-pages
-services
+.pages/
+.services/
