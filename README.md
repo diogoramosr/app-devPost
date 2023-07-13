@@ -5,7 +5,7 @@
 ## Tecnologias Utilizadas
 
 * Expo: uma plataforma de desenvolvimento de aplicativos móveis que utiliza JavaScript e React Native. Foi utilizada para criar e testar o aplicativo em dispositivos móveis.
-* React Native: um framework JavaScript para criação de aplicativos móveis multiplataforma. Foi utilizado para construir a interface do aplicativo de finanças.
+* React Native: um framework JavaScript para criação de aplicativos móveis multiplataforma. Foi utilizado para construir a interface do aplicativo de posts.
 * Styled Components: uma biblioteca para estilização de componentes em React Native. Foi utilizada para criar estilos personalizados e componentes reutilizáveis.
 * Firebase: uma plataforma de desenvolvimento de aplicativos móveis do Google. Foi utilizada para autenticação de usuários, armazenamento de posts em tempo real e imagens.
 
