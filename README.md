@@ -34,8 +34,7 @@
 
 <div align="center">
    
-
-
+   ![screen1](https://github.com/diogoramosr/app-devPost/assets/100318805/02634292-40a3-4ecc-a810-2e993b0ed971)
 </div>
 
 ---
